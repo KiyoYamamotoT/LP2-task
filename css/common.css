@@ -710,9 +710,9 @@ h6{
   width: 100%;
  height: 100%;
 }
+
 .schedule-wrapper__all__block__inner__right {
   width: 50%;
-
 }
 
 .schedule_group {
@@ -1122,6 +1122,11 @@ padding-top: 0%;
   
 }
 
+.footer {
+  max-width: 100%;
+ height: 95%;
+
+}
 .footer-wrapper__ttl p {
   font-size: 5vw;
 }
